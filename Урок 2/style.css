@@ -1,0 +1,22 @@
+body{
+    background-color: #57367c8f;
+}
+p{
+    font-size: 16px;
+}
+img{
+    width: 225px;
+    height: 225px;
+    border-radius: 110px;
+    border: 10px;
+    border-color: rgb(255, 0, 0);
+}
+h1{
+    font-size: 150%;
+}
+h2{
+ font-size: 120%;
+}
+li{
+    font-size: 20px;
+}

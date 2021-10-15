@@ -1,0 +1,24 @@
+body{
+    background-color: cadetblue;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(29, 70, 71);
+}
+
+p{
+    border-left: 7px solid rgba(0, 207, 104, 0.87);
+    font-size: 35px;
+   width: 1000px;
+   height: 100px;
+   text-align: center;
+}
+table{
+    width: 1050px;
+    margin: 15px auto;
+}
+p:hover{
+    border-left: 7px solid rgba(0, 112, 56, 0.87);
+    font-size: 40px;
+}
